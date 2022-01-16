@@ -1,7 +1,7 @@
 # 三上－影像處理上課練習
 
 ### 開發環境
-* macOS Big Sur 11.5.2
+* macOS Monterey 12.1
 * Visual Studio Code
 * Python 3.9.7
 * pip 21.3.1
